@@ -1,0 +1,15 @@
+C:\Users\spysf\OneDrive\Рабочий стол\GeekBrains\C#\Zadacha_64_66_68\Z_68\bin\Debug\net6.0\Z_68.exe
+C:\Users\spysf\OneDrive\Рабочий стол\GeekBrains\C#\Zadacha_64_66_68\Z_68\bin\Debug\net6.0\Z_68.deps.json
+C:\Users\spysf\OneDrive\Рабочий стол\GeekBrains\C#\Zadacha_64_66_68\Z_68\bin\Debug\net6.0\Z_68.runtimeconfig.json
+C:\Users\spysf\OneDrive\Рабочий стол\GeekBrains\C#\Zadacha_64_66_68\Z_68\bin\Debug\net6.0\Z_68.dll
+C:\Users\spysf\OneDrive\Рабочий стол\GeekBrains\C#\Zadacha_64_66_68\Z_68\bin\Debug\net6.0\Z_68.pdb
+C:\Users\spysf\OneDrive\Рабочий стол\GeekBrains\C#\Zadacha_64_66_68\Z_68\obj\Debug\net6.0\Z_68.csproj.AssemblyReference.cache
+C:\Users\spysf\OneDrive\Рабочий стол\GeekBrains\C#\Zadacha_64_66_68\Z_68\obj\Debug\net6.0\Z_68.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\spysf\OneDrive\Рабочий стол\GeekBrains\C#\Zadacha_64_66_68\Z_68\obj\Debug\net6.0\Z_68.AssemblyInfoInputs.cache
+C:\Users\spysf\OneDrive\Рабочий стол\GeekBrains\C#\Zadacha_64_66_68\Z_68\obj\Debug\net6.0\Z_68.AssemblyInfo.cs
+C:\Users\spysf\OneDrive\Рабочий стол\GeekBrains\C#\Zadacha_64_66_68\Z_68\obj\Debug\net6.0\Z_68.csproj.CoreCompileInputs.cache
+C:\Users\spysf\OneDrive\Рабочий стол\GeekBrains\C#\Zadacha_64_66_68\Z_68\obj\Debug\net6.0\Z_68.dll
+C:\Users\spysf\OneDrive\Рабочий стол\GeekBrains\C#\Zadacha_64_66_68\Z_68\obj\Debug\net6.0\refint\Z_68.dll
+C:\Users\spysf\OneDrive\Рабочий стол\GeekBrains\C#\Zadacha_64_66_68\Z_68\obj\Debug\net6.0\Z_68.pdb
+C:\Users\spysf\OneDrive\Рабочий стол\GeekBrains\C#\Zadacha_64_66_68\Z_68\obj\Debug\net6.0\Z_68.genruntimeconfig.cache
+C:\Users\spysf\OneDrive\Рабочий стол\GeekBrains\C#\Zadacha_64_66_68\Z_68\obj\Debug\net6.0\ref\Z_68.dll
